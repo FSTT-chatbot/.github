@@ -29,6 +29,22 @@ This is the backend part of the chatbot application. It serves the fine-tuned la
 
 This repository contains the frontend part of the chatbot application, built with Vue.js and Tailwind CSS. It provides a user-friendly interface for interacting with the chatbot in real-time.
 
+## App Interfaces
+
+Here are some screenshots of the chatbot app interfaces:
+
+### 1. Home Page
+![Chat_bot](interface.jpeg)
+
+### 2. Chat Interface
+![Chat_bot](chat.jpeg)
+
+### 3. Login Interface
+![Chat_bot](login.png)
+
+### 4. Sign Up Interface
+![Chat_bot](singup.png)
+
 ## Getting Started
 
 To get started with the FSTT Chatbot project, follow the instructions in the respective repositories:
@@ -56,3 +72,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 We would like to express our gratitude to Professor Lotfi El Aachak for his guidance and support throughout the development of this project.
+
+
